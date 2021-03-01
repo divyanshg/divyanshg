@@ -1,10 +1,5 @@
 ### Hi there, I'm Divyansh 👋
 
-## I'm a Student, and Developer!
-- 🔭 I’m currently working on a IOT Platform!
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to code 24 hours
-
 ### Connect with me:
 
 [<img align="left" alt="Divyansh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
